@@ -20,3 +20,6 @@
 * Integração com outras ferramentas: Integre o profiler com outras ferramentas de profiling e monitoramento.
 * Opções configuráveis: Permita que o usuário configure as métricas a serem coletadas e o nível de detalhe.
 * Tratamento de erros: Adicione tratamento de exceções para lidar com erros durante a execução da função.
+* Profiling linha por linha: Integrar com ferramentas que permitem visualizar o tempo de execução e o uso de memória linha por linha.
+* Visualização: Gerar gráficos e visualizações dos dados de desempenho.
+* Comparação de desempenho: Permitir que o usuário compare o desempenho de diferentes versões de uma função.
